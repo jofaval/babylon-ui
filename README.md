@@ -1,6 +1,8 @@
 # Babylon's User Interface
 
-Babylon's UI microservices for frontend (webapps)
+Babylon's UI microservices for frontend (webapps).
+
+Part of the [Babylon's Project](https://github.com/jofaval/babylon).
 
 ## Contents
 
