@@ -17,3 +17,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Added base Changelog
 - Added base Dockerfile
 - Created the `frontend-example/` example
+- Created some base microfrontends:
+  - Carts
+  - Catalog
+  - Customers
+  - Landing
+  - Blog
+  - Orders
+  - Payments
+  - Reporting
+  - Comments
+  - Recommendations
+  - Reviews
+  - Home
+  - Contact
