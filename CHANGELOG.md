@@ -4,6 +4,12 @@ All the changes related to this project and repository, repositories later down 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-08-17
+
+### Added
+
+- Created the base frontend frame
+
 ## 2022-08-16
 
 ### Achieved
